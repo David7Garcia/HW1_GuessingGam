@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HW1_GuessingGame</string>
+    <string name="Tittle">Adivina mi numero</string>
+    <string name="txtView_tellme">dime un numero (1-1000)</string>
+    <string name="txtView_higther">mi numero es mayor</string>
+    <string name="txtView_lower">mi numero es menor</string>
+    <string name="txtView_error">!!DIJE DE 1-1000!!</string>
+    <string name="txtView_won">!!Ganaste!!</string>
+    <string name="txtView_Thinking">Pensando...</string>
+    <string name="btn_play">Jugar</string>
+
+</resources>

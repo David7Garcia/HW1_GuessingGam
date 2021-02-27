@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW1_GuessingGame</string>
+    <string name="Tittle">Number Guess Game</string>
+    <string name="txtView_tellme">tell me a number (1-1000)</string>
+    <string name="txtView_higther">my number is higther</string>
+    <string name="txtView_lower">my number is lower</string>
+    <string name="txtView_error">!!I SAID 1-1000!!</string>
+    <string name="txtView_won">!!YOU WON!!</string>
+    <string name="txtView_Thinking">Thinking...</string>
+    <string name="btn_play">play</string>
+</resources>
